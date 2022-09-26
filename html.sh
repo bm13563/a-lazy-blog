@@ -1,0 +1,1 @@
+yarn showdown makehtml --input $1/$1.md --output $1/$1.html
